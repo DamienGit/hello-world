@@ -1,2 +1,1 @@
-# hello-world
-First repository
+Just README file.
